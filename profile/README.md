@@ -1,6 +1,6 @@
 # Welcome to Forus 💜
 
-Forus is a Brazilian social network developed by students that aims to redefine the way you connect to embrace a new era of personalized experiences, quality content and freedom.
+Forus is a Brazilian media platform developed by students that aims to redefine the way you connect to embrace a new era of personalized experiences, quality content and freedom.
 
 #ThisIsForUs
 
@@ -25,10 +25,7 @@ Follow us on our social media:
 
 ## If you like our work, you can donate to us:
 ### Bitcoin Wallet:
-`bc1q57909p6aahnq8yhlvt9llvqvek836uklyaw3tx`
-
-### Ethereum / Polygon Wallet:
-`0x36ae07dfb1a61c558bb3de508214a0020fb263de`
+`bc1qz9l9rkrrpk09plkj9ysat5xuy85j27umtek9uy`
 
 ### Buy me a coffee:
 

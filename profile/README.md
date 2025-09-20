@@ -20,8 +20,6 @@ Follow us on our social media:
 - ### ***[Forus (@forus)](https://forus.app/forus)***
 - ### ***[Instagram](http://instagram.com/forus.app)***
 - ### ***[LinkedIn](https://www.linkedin.com/company/forusapp/)***
-- ### ***[TikTok](http://tiktok.com/@forus.app)***
-- ### ***[YouTube](http://youtube.com/@forusapp)***
 
 ## If you like our work, you can donate to us:
 ### Bitcoin Wallet:

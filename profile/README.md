@@ -1,10 +1,10 @@
-# Welcome to Forus App
+# Welcome to Forus App!
 
 Forus is a media platform that aims to redefine the way you connect to embrace a new era of personalized experiences, quality content and freedom.
 
 #ThisIsForUs
 
-## Visit the Forus website and download the app!
+## Visit the Forus website and download the app! ↓
 
 - ### ***[Forus website](https://forus.app/)***
 - ### ***[Forus on iOS](https://apps.apple.com/us/app/*forus-explore-the-world/id1613210612)***

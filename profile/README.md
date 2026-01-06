@@ -15,6 +15,15 @@ Forus is a media platform that aims to redefine the way you connect to embrace a
 ## Get involved!
 
 Follow us on our social media:
-- ### ***[Forus (@forus)](https://forus.app/forus)***
-- ### ***[Instagram](http://instagram.com/forus.app)***
-- ### ***[LinkedIn](https://www.linkedin.com/company/forusapp/)***
+
+<a href="https://forus.app/forus" target="_blank">
+  <img src="https://img.shields.io/badge/-Forus-%23000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white">
+</a>
+
+<a href="http://instagram.com/forus.app" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/company/forusapp/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>

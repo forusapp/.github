@@ -1,6 +1,6 @@
-# Welcome to Forus 💜
+# Welcome to Forus App
 
-Forus is a Brazilian media platform developed by students that aims to redefine the way you connect to embrace a new era of personalized experiences, quality content and freedom.
+Forus is a media platform that aims to redefine the way you connect to embrace a new era of personalized experiences, quality content and freedom.
 
 #ThisIsForUs
 
@@ -12,19 +12,9 @@ Forus is a Brazilian media platform developed by students that aims to redefine 
 
 <a href="https://forus.app" target="_blank"><img src="https://forus.app/images/website-preview.jpg" target="_blank"></a>
 
----
-
 ## Get involved!
 
 Follow us on our social media:
 - ### ***[Forus (@forus)](https://forus.app/forus)***
 - ### ***[Instagram](http://instagram.com/forus.app)***
 - ### ***[LinkedIn](https://www.linkedin.com/company/forusapp/)***
-
-## If you like our work, you can donate to us:
-### Bitcoin Wallet:
-`bc1qz9l9rkrrpk09plkj9ysat5xuy85j27umtek9uy`
-
-### Buy me a coffee:
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/forus) 

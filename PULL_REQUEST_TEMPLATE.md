@@ -12,5 +12,5 @@ Description of what this PR is changing or adding and why
 
 ## *Before/after screenshots:*
 
-[![Forus App](https://forus.app/icons/icon-128x128.png)](https://forus.app)
+[![Forus App](https://forus.app/og-image.webp)](https://forus.app)
 
